@@ -1,3 +1,5 @@
+[![Build Status](https://api.travis-ci.org/programmableproduction/kafka.kotlin.testing.svg?branch=master)](https://travis-ci.org/programmableproduction/kafka.kotlin.testing) 
+
 # kafka.kotlin.testing
 helper library to test kafka intereaction in Kotlin unit test
 
